@@ -17,7 +17,7 @@
 ```bash
 # Клонируйте репозиторий
 
-git clone [https://github.com/formeo/archive_labels.git](https://github.com/formeo/archive_labels.git)
+git clone https://github.com/formeo/archive_labels.git
 cd archive_labels
 
 # Установите зависимости
